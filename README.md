@@ -1,6 +1,6 @@
 ##  Fintech Fraud Detection Simulation
 
-A proof-of-concept machine learning architecture built to identify anomalous transaction patterns. This project utilizes a synthetic financial stream simulation to demonstrate feature engineering, model evaluation, and deployment concepts in a controlled environment.
+*A proof-of-concept machine learning architecture built to identify anomalous transaction patterns. This project utilizes a synthetic financial stream simulation to demonstrate feature engineering, model evaluation, and deployment concepts in a controlled environment.
 ---
 
 ##  Key Features
