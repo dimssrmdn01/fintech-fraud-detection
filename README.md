@@ -1,7 +1,6 @@
-#  fintech-fraud-detection (Pro Version)
+#  Fintech Fraud Detection Simulation
 
-An enterprise-grade financial anomaly detection pipeline and automated audit logging engine. This system utilizes unsupervised machine learning to isolate fraudulent transactions from high-volume financial streams and structures them into a persistent SQL layer for compliance tracking and forensic investigation.
-
+A proof-of-concept machine learning architecture built to identify anomalous transaction patterns. This project utilizes a synthetic financial stream simulation to demonstrate feature engineering, model evaluation, and deployment concepts in a controlled environment.
 ---
 
 ##  Key Features
